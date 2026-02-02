@@ -205,7 +205,6 @@ Notes:
 - Diamond Truck Driving School
 - DM Truck Driving School
 - DOABA TRUCK DRIVING SCHOOL INC
-- Dolphin Trucking School 
 - Donna's Instruction Hub, LLC
 - Double tap truck driving academy
 - Drive Safe Trucking
@@ -331,7 +330,7 @@ Notes:
 - Zone 1 Trucking School
 
 ## Examples of use
-This repo contains data for our story: TK
+- [Is your California career college or training program legit? Check its license or violations ](https://calmatters.org/data/2025/04/career-college-trade-school-training-program-database-lookup/)
 
 ## Data Use
 
