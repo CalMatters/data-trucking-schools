@@ -14,7 +14,7 @@ CalMatters first filtered out providers registered as “private enrollment only
 
 Because the federal database lists all locations separately, CalMatters consolidated branch locations of the same school based on name and contact information. We then matched schools to the state bureau’s list of approved private postsecondary educational institutions based on name, location and contact information. 
 
-After compiling a comparable list, our analysis found at least 185 training providers listed on the federal registry that appear to be primarily operating as private trucking schools but were not approved by BPPE. To confirm whether a school is still operating, we used recent reviews and online listings, though some listings may be outdated, or we contacted the school directly.  
+After compiling a comparable list, our analysis found at least 184 training providers listed on the federal registry that appear to be primarily operating as private trucking schools but were not approved by BPPE. To confirm whether a school is still operating, we used recent reviews and online listings, though some listings may be outdated, or we contacted the school directly.  
 
 The dates we accessed each source are below. School information and status may have changed more recently.
 
