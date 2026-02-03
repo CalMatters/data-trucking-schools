@@ -330,7 +330,7 @@ Notes:
 - Zone 1 Trucking School
 
 ## Examples of use
-- [Is your California career college or training program legit? Check its license or violations ](https://calmatters.org/data/2025/04/career-college-trade-school-training-program-database-lookup/)
+- [These California trucking schools broke state laws. Regulators couldn’t do anything about it](https://calmatters.org/education/2026/02/trucking-school-california/) (February 3, 2025)
 
 ## Data Use
 
